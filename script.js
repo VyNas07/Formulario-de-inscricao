@@ -1,3 +1,4 @@
+
 import contato from "./contatos.js";
 //Atualizado
 
@@ -16,3 +17,4 @@ btn_gravar.addEventListener("click", (evt) => {
 
 // Inicializa a exibição dos contatos.
 contato.displayContato(listaContatos);
+
