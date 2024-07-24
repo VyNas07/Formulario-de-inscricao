@@ -1,4 +1,4 @@
-# Formulario-de-inscrucao-CRUD
+# Formulario-de-inscrucao
 
 ##Resumo
 
@@ -8,7 +8,7 @@ Criei um pequeno formulário de inscrição como parte do meu estudo de modulari
 
 ##Funções
 
-Mostrar todos os contatos
-Procura um contato específico
-Adiciona contatos
-Deleta contatos
+1. Cria um contato
+2. Mostrar todos os contatos
+3. Adiciona contatos
+4. Deleta contatos
